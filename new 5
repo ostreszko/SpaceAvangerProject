@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<Enemies>
-   <small damage="10" fireRateMin="4" fireRateMax="6" scoreDrop="60" hp="1"></small>
-   <medium damage="20" fireRateMin="5" fireRateMax="7" scoreDrop="150" hp="2"></medium>
-   <large damage="30" fireRateMin="6" fireRateMax="8" scoreDrop="300" hp="3"></large>
-</Enemies> 
